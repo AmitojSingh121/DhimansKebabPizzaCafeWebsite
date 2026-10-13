@@ -117,4 +117,4 @@ This repository is available for viewing and learning. Before reusing, modifying
 
 ⭐ If you find this project useful, consider starring the repository on GitHub.
 
-**Built with ❤️ by Amitoj Singh**
+**Built by Amitoj Singh**
