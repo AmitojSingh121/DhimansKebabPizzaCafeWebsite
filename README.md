@@ -8,7 +8,7 @@ A modern restaurant website developed for **Dhiman's Kebab & Pizza Cafe** to est
 
 ## 📌 About the Project
 
-Dhiman's Kebab & Pizza Cafe Website is a web development project created to provide a digital presence for a restaurant. It uses frontend web technologies to build the website's interface and PHP for server-side functionality where required.
+Dhiman's Kebab & Pizza Cafe Website is a web development project created to provide a digital presence for a restaurant. It uses frontend web technologies to build the website's interface.
 
 The project demonstrates practical web development skills, including website structure, styling, interactivity, and the integration of different web technologies.
 
@@ -31,7 +31,7 @@ The project demonstrates practical web development skills, including website str
 | CSS3 | Styling and layout |
 | JavaScript | Interactivity and dynamic behavior |
 | SCSS | Organized and maintainable stylesheets |
-| PHP | Server-side scripting |
+| formpree.com | Server-side scripting |
 
 ## 🚀 Getting Started
 
