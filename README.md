@@ -42,7 +42,6 @@ Follow these steps to run the project locally.
 - Git installed on your computer
 - Visual Studio Code or another code editor
 - A web browser
-- PHP installed if the project requires server-side PHP execution
 
 ### Installation
 
